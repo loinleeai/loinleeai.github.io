@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on loinlee</title>
-        <link>https://loinleeai.github.io/post/</link>
-        <description>Recent content in Posts on loinlee</description>
+        <title>读书与思考 on loinlee</title>
+        <link>https://loinleeai.github.io/categories/%E8%AF%BB%E4%B9%A6%E4%B8%8E%E6%80%9D%E8%80%83/</link>
+        <description>Recent content in 读书与思考 on loinlee</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>loinlee</copyright>
-        <lastBuildDate>Tue, 06 May 2025 21:24:25 +0800</lastBuildDate><atom:link href="https://loinleeai.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 06 May 2025 21:24:25 +0800</lastBuildDate><atom:link href="https://loinleeai.github.io/categories/%E8%AF%BB%E4%B9%A6%E4%B8%8E%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>成事的时间管理</title>
         <link>https://loinleeai.github.io/p/%E6%88%90%E4%BA%8B%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</link>
         <pubDate>Tue, 06 May 2025 21:24:25 +0800</pubDate>

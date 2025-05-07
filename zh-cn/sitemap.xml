@@ -15,10 +15,26 @@
                 href="https://loinleeai.github.io/"
                 />
   </url><url>
+    <loc>https://loinleeai.github.io/categories/</loc>
+    <lastmod>2025-05-06T21:24:25+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://loinleeai.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://loinleeai.github.io/categories/"
+                />
+  </url><url>
     <loc>https://loinleeai.github.io/post/</loc>
     <lastmod>2025-05-06T21:24:25+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/p/%E6%88%90%E4%BA%8B%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-05-06T21:24:25+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/categories/%E8%AF%BB%E4%B9%A6%E4%B8%8E%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-05-06T21:24:25+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/p/%E5%BC%80%E5%90%AF%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%88%90%E9%95%BF%E7%9A%84%E6%96%B0%E7%AF%87%E7%AB%A0/</loc>
@@ -30,17 +46,7 @@
     <loc>https://loinleeai.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loinleeai.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://loinleeai.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://loinleeai.github.io/categories/"
-                />
+    <loc>https://loinleeai.github.io/collections/</loc>
   </url><url>
     <loc>https://loinleeai.github.io/tags/</loc>
     <xhtml:link
@@ -56,8 +62,12 @@
   </url><url>
     <loc>https://loinleeai.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
+    <loc>https://loinleeai.github.io/%E6%8A%80%E6%9C%AF%E9%93%BE%E6%8E%A5/</loc>
+  </url><url>
     <loc>https://loinleeai.github.io/search/</loc>
   </url><url>
-    <loc>https://loinleeai.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://loinleeai.github.io/collections/%E9%98%85%E8%AF%BB/</loc>
+  </url><url>
+    <loc>https://loinleeai.github.io/categories/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83/</loc>
   </url>
 </urlset>
