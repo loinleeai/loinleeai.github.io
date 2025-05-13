@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://loinleeai.github.io/</loc>
-    <lastmod>2025-05-08T09:38:39+08:00</lastmod>
+    <lastmod>2025-05-13T11:24:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://loinleeai.github.io/categories/</loc>
-    <lastmod>2025-05-08T09:38:39+08:00</lastmod>
+    <lastmod>2025-05-13T11:24:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,19 +28,22 @@
                 href="https://loinleeai.github.io/categories/"
                 />
   </url><url>
-    <loc>https://loinleeai.github.io/p/hugo-github%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%8F%8A%E4%B8%BB%E9%A2%98stack%E7%BE%8E%E5%8C%96%E7%AD%89%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2025-05-08T09:38:39+08:00</lastmod>
-  </url><url>
     <loc>https://loinleeai.github.io/post/</loc>
+    <lastmod>2025-05-13T11:24:28+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/p/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E5%B0%8F%E8%AF%B4--%E6%97%A2%E7%84%B6%E5%B0%8F%E8%AF%B4%E6%98%AF%E8%99%9A%E6%9E%84%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%83%E4%BE%9D%E7%84%B6%E5%80%BC%E5%BE%97%E8%A2%AB%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2025-05-13T11:24:28+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/categories/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2025-05-13T11:24:28+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/p/hugo-github%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%8F%8A%E4%B8%BB%E9%A2%98stack%E7%BE%8E%E5%8C%96%E7%AD%89%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2025-05-08T09:38:39+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2025-05-08T09:38:39+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/p/%E6%88%90%E4%BA%8B%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-05-06T21:24:25+08:00</lastmod>
-  </url><url>
-    <loc>https://loinleeai.github.io/categories/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-05-06T21:24:25+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/p/%E5%BC%80%E5%90%AF%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%88%90%E9%95%BF%E7%9A%84%E6%96%B0%E7%AF%87%E7%AB%A0/</loc>
@@ -66,9 +69,11 @@
   </url><url>
     <loc>https://loinleeai.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
+    <loc>https://loinleeai.github.io/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</loc>
+  </url><url>
     <loc>https://loinleeai.github.io/%E6%8A%80%E6%9C%AF%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>https://loinleeai.github.io/categories/%E7%A7%91%E7%A0%94%E7%9F%A5%E8%AF%86/</loc>
+    <loc>https://loinleeai.github.io/categories/%E7%A7%91%E7%A0%94%E7%99%BE%E5%AE%9D%E7%AE%B1/</loc>
   </url><url>
     <loc>https://loinleeai.github.io/search/</loc>
   </url>
