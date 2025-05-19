@@ -6,6 +6,81 @@
         <description>Recent content in 科研百宝箱 on loinlee</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>loinlee</copyright><atom:link href="https://loinleeai.github.io/categories/%E7%A7%91%E7%A0%94%E7%99%BE%E5%AE%9D%E7%AE%B1/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>loinlee</copyright>
+        <lastBuildDate>Mon, 19 May 2025 15:50:41 +0800</lastBuildDate><atom:link href="https://loinleeai.github.io/categories/%E7%A7%91%E7%A0%94%E7%99%BE%E5%AE%9D%E7%AE%B1/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>科研必备网站分享</title>
+        <link>https://loinleeai.github.io/p/%E7%A7%91%E7%A0%94%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/</link>
+        <pubDate>Mon, 19 May 2025 15:50:41 +0800</pubDate>
+        
+        <guid>https://loinleeai.github.io/p/%E7%A7%91%E7%A0%94%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/</guid>
+        <description>&lt;h2 id=&#34;文献检索相关网站&#34;&gt;文献检索相关网站
+&lt;/h2&gt;&lt;p&gt;把我用到的相关网站分享出来,随时更新！&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://ieeexplore.ieee.org/Xplore/home.jsp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IEEE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱斯维尔&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://link.springer.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;springer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;arxiv预印版&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;无需多言&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.x-mol.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;X-MOL学术平台&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;中文，英文的都能用，比较好的一点是，搜索英文直接出来摘要翻译。还能够直接给出影响因子，DOI号挺好使的。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sci-hub.st/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;sci-hub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个网站能找到前几年的文章下载，直接把doi号复制过来就能下载。于2011年在俄罗斯成立，由一名叫 Alexandra Elbakyan 的哈萨克斯坦女科学家创办。她这个网站的技术对于技术大佬来说应该不算很难，有勇气用自己的技术挑战整个学术出版的规则才是真正的英雄。挺有意思的。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ablesci.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;科研通&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能够求助自己下载不到的论文，不过需要签到领取积分然后消耗积分下载（够用的，除非你一天看一篇最新论文）。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://paperswithcode.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;paperswithcode&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一般是带有代码的论文，能直接下载文献，也能直接连接到github&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://459.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;文献部落&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;里面有很多小网站，可以自己探索。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.letpub.com.cn/index.php?page=journalapp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LetPub期刊查询&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有最新的中科院分区，查看影响因子，发文量，和一些评论。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.aminer.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Aminder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AI赋能科技情报挖掘，我没怎用过，应该也好使的。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.google-hub.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;谷歌学术镜像网站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.semanticscholar.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;semanticscholar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;英文文献检索&lt;/p&gt;
+&lt;h2 id=&#34;论文写作&#34;&gt;论文写作
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.phrasebank.manchester.ac.uk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Academic Phrasebank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;写作可以用的句子什么的，我还没怎么研究过&lt;/p&gt;
+&lt;p&gt;我看完了一本书叫做《Science Research Writing》，感觉还不错，但自己能用上的较少。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.grammarly.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Grammarly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用于语法纠错的，还可以。&lt;/p&gt;
+&lt;h2 id=&#34;翻译用&#34;&gt;翻译用
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://fanyi.youdao.com/#/TextTranslate&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;有道翻译&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.deepl.com/zh/translator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DeepL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://transmart.qq.com/zh-CN/index&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;腾讯翻译&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://fanyi.caiyunapp.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;彩云小译&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tool.mkblog.cn/fanyi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;聚合翻译&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ai&#34;&gt;AI
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://aa.aifree.site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;freegpt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://free.ai99.asia/chat?session=inbox&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SmallAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://chatgptplus.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;一些chatgpt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://chat.deepseek.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;deepseek&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
