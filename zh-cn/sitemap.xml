@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://loinleeai.github.io/</loc>
-    <lastmod>2025-05-21T14:45:07+08:00</lastmod>
+    <lastmod>2025-10-15T21:25:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,8 @@
                 href="https://loinleeai.github.io/"
                 />
   </url><url>
-    <loc>https://loinleeai.github.io/p/%E6%B1%9F%E6%B9%96%E9%BB%91%E5%B9%95%E6%B1%9F%E6%B9%96%E5%90%AF%E7%A4%BA%E5%BD%95/</loc>
-    <lastmod>2025-05-21T09:45:07+08:00</lastmod>
-  </url><url>
     <loc>https://loinleeai.github.io/categories/</loc>
-    <lastmod>2025-05-21T14:45:07+08:00</lastmod>
+    <lastmod>2025-10-15T21:25:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,7 +29,16 @@
                 />
   </url><url>
     <loc>https://loinleeai.github.io/post/</loc>
-    <lastmod>2025-05-21T14:45:07+08:00</lastmod>
+    <lastmod>2025-10-15T21:25:39+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/p/%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%9310.15/</loc>
+    <lastmod>2025-10-15T21:25:39+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/categories/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2025-10-15T21:25:39+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/p/%E6%B1%9F%E6%B9%96%E9%BB%91%E5%B9%95%E6%B1%9F%E6%B9%96%E5%90%AF%E7%A4%BA%E5%BD%95/</loc>
+    <lastmod>2025-05-21T09:45:07+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2025-05-21T14:45:07+08:00</lastmod>
@@ -47,9 +53,6 @@
     <lastmod>2025-05-19T15:50:41+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/p/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E5%B0%8F%E8%AF%B4--%E6%97%A2%E7%84%B6%E5%B0%8F%E8%AF%B4%E6%98%AF%E8%99%9A%E6%9E%84%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%83%E4%BE%9D%E7%84%B6%E5%80%BC%E5%BE%97%E8%A2%AB%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2025-05-13T11:24:28+08:00</lastmod>
-  </url><url>
-    <loc>https://loinleeai.github.io/categories/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-05-13T11:24:28+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/p/hugo-github%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%8F%8A%E4%B8%BB%E9%A2%98stack%E7%BE%8E%E5%8C%96%E7%AD%89%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96/</loc>
