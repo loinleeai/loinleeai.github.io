@@ -201,7 +201,8 @@ hugo主题很多可以自己选一个
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;blockquote&gt;
-&lt;p&gt;一定要把代码替换为网站给你的代码，否则只会出现个地球，不能看到信息&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;一定要把代码替换为网站给你的代码，否则只会出现个地球，不能看到信息&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;至此我的部署就结束了，花费了三天时间，还是很有成就感的！
 如果感兴趣
 你也去操作下吧！&lt;/p&gt;
