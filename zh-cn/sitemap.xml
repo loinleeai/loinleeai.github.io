@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://loinleeai.github.io/</loc>
-    <lastmod>2026-03-16T10:45:02+08:00</lastmod>
+    <lastmod>2026-04-04T10:36:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,12 +11,12 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://loinleeai.github.io/"
                 />
   </url><url>
     <loc>https://loinleeai.github.io/categories/</loc>
-    <lastmod>2026-03-16T10:45:02+08:00</lastmod>
+    <lastmod>2026-04-04T10:36:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,17 +24,20 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://loinleeai.github.io/categories/"
                 />
   </url><url>
     <loc>https://loinleeai.github.io/post/</loc>
-    <lastmod>2026-03-16T10:45:02+08:00</lastmod>
+    <lastmod>2026-04-04T10:36:45+08:00</lastmod>
   </url><url>
-    <loc>https://loinleeai.github.io/p/%E5%A4%A7%E9%81%93%E8%87%B3%E7%AE%80%E5%AD%A6%E6%97%A0%E6%AD%A2%E5%A2%83/</loc>
-    <lastmod>2026-03-16T10:45:02+08:00</lastmod>
+    <loc>https://loinleeai.github.io/p/%E4%BF%9D%E6%8C%81%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2026-04-04T10:36:45+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/categories/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2026-04-04T10:36:45+08:00</lastmod>
+  </url><url>
+    <loc>https://loinleeai.github.io/p/%E5%A4%A7%E9%81%93%E8%87%B3%E7%AE%80%E5%AD%A6%E6%97%A0%E6%AD%A2%E5%A2%83/</loc>
     <lastmod>2026-03-16T10:45:02+08:00</lastmod>
   </url><url>
     <loc>https://loinleeai.github.io/p/%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%9310.15/</loc>
@@ -84,7 +87,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://loinleeai.github.io/tags/"
                 />
   </url><url>
