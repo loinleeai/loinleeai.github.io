@@ -5,37 +5,37 @@
     <loc>https://loinleeai.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://loinleeai.github.io/categories/"
+                hreflang="en"
+                href="https://loinleeai.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://loinleeai.github.io/en/categories/"
+                hreflang="en-us"
+                href="https://loinleeai.github.io/categories/"
                 />
   </url><url>
     <loc>https://loinleeai.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://loinleeai.github.io/"
+                hreflang="en"
+                href="https://loinleeai.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://loinleeai.github.io/en/"
+                hreflang="en-us"
+                href="https://loinleeai.github.io/"
                 />
   </url><url>
     <loc>https://loinleeai.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://loinleeai.github.io/tags/"
+                hreflang="en"
+                href="https://loinleeai.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://loinleeai.github.io/en/tags/"
+                hreflang="en-us"
+                href="https://loinleeai.github.io/tags/"
                 />
   </url>
 </urlset>
