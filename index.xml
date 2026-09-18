@@ -7,13 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>loinlee</copyright>
-        <lastBuildDate>Mon, 14 Sep 2026 22:02:17 +0800</lastBuildDate><atom:link href="https://loinleeai.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title></title>
-        <link>https://loinleeai.github.io/p/</link>
-        <pubDate>Mon, 14 Sep 2026 22:02:17 +0800</pubDate>
+        <lastBuildDate>Fri, 18 Sep 2026 17:13:56 +0800</lastBuildDate><atom:link href="https://loinleeai.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>20260918</title>
+        <link>https://loinleeai.github.io/p/20260918/</link>
+        <pubDate>Fri, 18 Sep 2026 17:13:56 +0800</pubDate>
         
-        <guid>https://loinleeai.github.io/p/</guid>
-        <description>&lt;img src="https://loinleeai.github.io/img/2026914.png" alt="Featured image of post " /&gt;&lt;p&gt;&lt;img src=&#34;https://loinleeai.github.io/img/2026316.png&#34;
+        <guid>https://loinleeai.github.io/p/20260918/</guid>
+        <description>&lt;img src="https://loinleeai.github.io/img/2026918.png" alt="Featured image of post 20260918" /&gt;&lt;h2 id=&#34;问题描述&#34;&gt;问题描述
+&lt;/h2&gt;&lt;p&gt;在工具栏中打开收藏夹，这里的工作区收藏夹无法删除（其对应的工作区早已删除）；打开 edge://favorites/ 页面后删除工作区收藏夹，提示删除成功，实际并未删除。
+&lt;img src=&#34;https://loinleeai.github.io/img/26918-1.png&#34;
 	
 	
 	
@@ -21,7 +23,41 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;时间来到2026.9&lt;/p&gt;
+&lt;h2 id=&#34;经过&#34;&gt;经过
+&lt;/h2&gt;&lt;p&gt;刚才整理收藏夹遇到这个问题
+有个“工作区”文件夹下带着个&amp;quot;工作区1&amp;quot;
+打开设置-收藏夹后无法删除
+（个人比较有强迫，看着不舒服就想弄掉）
+我想起来这个工作区是我在另一台电脑上整理论文建立的
+想着解铃还须系铃人
+于是我打开之前的电脑
+想着找回自己的工作区
+但是无法直接找出来&lt;/p&gt;
+&lt;h2 id=&#34;解决&#34;&gt;解决
+&lt;/h2&gt;&lt;p&gt;先在设置中选择工作区
+将外部链接默认行为设置为某个工作区（这个图我把工作区删了所以没有显示）
+&lt;img src=&#34;https://loinleeai.github.io/img/26918-2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+然后你就找一个外部链接
+会默认打开之前的工作区
+这个时候你就可以删除这个打开的工作区了
+删完以后自动同步就没了
+至此，完美解决！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://loinleeai.github.io/p/</link>
+        <pubDate>Mon, 14 Sep 2026 22:02:17 +0800</pubDate>
+        
+        <guid>https://loinleeai.github.io/p/</guid>
+        <description>&lt;img src="https://loinleeai.github.io/img/2026914.png" alt="Featured image of post " /&gt;&lt;p&gt;时间来到2026.9&lt;/p&gt;
 &lt;p&gt;距离上次更新已经过去5个月了&lt;/p&gt;
 &lt;p&gt;这5个月发生了很多&lt;/p&gt;
 &lt;p&gt;上次使用好像还是gpt5.5&lt;/p&gt;
